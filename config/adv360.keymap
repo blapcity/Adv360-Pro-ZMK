@@ -67,7 +67,7 @@
         layer_fn {
             bindings = <
 &kp F1           &kp F2      &kp F3                &kp F4                 &kp F5     &kp F6  &tog 1                                                 &mo 3          &kp F7          &kp F8        &kp F9          &kp F10  &kp F11  &kp F12
-&trans  &kp EXCLAMATION      &kp AT        &kp LEFT_BRACE        &kp RIGHT_BRACE   &kp PIPE   &none                                                 &none        &kp PLUS          &trans        &trans           &trans   &trans   &trans
+&trans  &kp EXCLAMATION      &kp AT        &kp LEFT_BRACE        &kp RIGHT_BRACE   &kp PIPE   &none                                                 &none           &none        &kp PLUS        &trans           &trans   &trans   &trans
 &trans    &kp AMPERSAND  &kp DOLLAR  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp GRAVE   &none  &trans  &trans                &trans  &trans   &none  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW   &trans   &trans
 &trans        &kp POUND   &kp CARET      &kp LEFT_BRACKET      &kp RIGHT_BRACKET  &kp TILDE   &none   &none  &trans  &none  &none  &trans   &none   &none  &kp UNDERSCORE       &kp MINUS     &kp EQUAL      &kp PERCENT   &trans   &trans
 &trans           &trans      &trans  &kp C_BRIGHTNESS_DEC   &kp C_BRIGHTNESS_INC             &trans  &trans  &trans                &trans  &trans  &trans                    &kp C_VOL_DN  &kp C_VOL_UP       &kp C_MUTE   &trans   &trans
